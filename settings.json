@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PES-Official.aternos.me",
+    "port": 11678,
     "version": "",
     "try-creative": false
   },
